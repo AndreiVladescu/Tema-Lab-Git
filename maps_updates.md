@@ -1,3 +1,12 @@
+[MAPS 2]
+-
+**Anubis**
+-
+-Added nade clips on mid bridge to prevent nades getting stuck.
+-Fixed nade physics on stairs in sewer.
+-Fixed boost near canal.
+-Added collision to large stone blocks above canal.
+
 [MAPS]
 -
 **Ember**
@@ -12,5 +21,7 @@ Introducing Ember Halloween version
 -Seagulls have turned into crows
 -Spooky sounds
 -Loading screen, spawn select and tablet images
+
+
 
 >Petru-Stefan
